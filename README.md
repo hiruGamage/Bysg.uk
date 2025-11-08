@@ -9,7 +9,7 @@ My official **portfolio website** built to showcase my creative projects, design
 
 ## 💡 About
 This is the source code for my personal portfolio site.  
-It includes my latest creative work, social links, and contact info — designed and coded by **Hiru**.
+It includes my latest creative work, social links, and contact info.
 
 ---
 
