@@ -1,6 +1,6 @@
 # 🌐 BYSG.UK
 
-My official **portfolio website** — built to showcase my creative projects, designs, and digital work.  
+My official **portfolio website** built to showcase my creative projects, designs, and digital work.  
 
 🔗 **Live Site:** [https://bysg.uk](https://bysg.uk)  
 📝 **Blog:** [https://justhiruu.t.me](https://justhiruu.t.me)
@@ -22,7 +22,7 @@ It includes my latest creative work, social links, and contact info — designed
 
 ## 👤 Author
 **Hiru**  
-📩 Contact: [https://justhiruu.t.me](https://justhiruu.t.me)
+📩 Contact: [https://lilxhiruu.t.me](https://lilxhiruu.t.me)
 
 ---
 
